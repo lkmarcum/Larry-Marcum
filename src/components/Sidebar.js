@@ -1,7 +1,7 @@
 import React from "react";
 import larry from "../larry.JPG";
 import github from "../github.png";
-import twitter from "../twitter.jpg";
+import twitter from "../twitter.png";
 import email from "../email.png";
 
 const Sidebar = () => {
@@ -20,7 +20,7 @@ const Sidebar = () => {
           <img src={twitter} alt="twitter" />
         </a>
         <a href="#">
-          <img src={email} alt="email" />
+          <img className="email" src={email} alt="email" />
         </a>
       </div>
     </div>
