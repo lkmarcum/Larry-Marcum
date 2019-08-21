@@ -47,6 +47,7 @@ code:after {
   background-image: url("./mountain.jpg");
 }
 
-.email {
-  fill: white;
+.side img {
+  height: 20px;
+  width: 20px;
 }
