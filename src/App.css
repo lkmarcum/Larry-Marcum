@@ -9,7 +9,16 @@
   flex-direction: column;
 }
 
-.side a {
+.side img {
   height: 20px;
   width: 20px;
+}
+
+.top-img {
+  height: 200px;
+  width: 200px;
+}
+
+.side p {
+  color: white;
 }
